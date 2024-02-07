@@ -80,3 +80,4 @@ ggplot(gapminder_df, aes(pop)) +
 |               |      |      |
 |               |      |      |
 
+Adding new lines for git 
